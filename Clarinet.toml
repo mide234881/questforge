@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/character-manager.clar"
 depends_on = []
 
+[contracts.guild-collaborator]
+path = "contracts/guild-collaborator.clar"
+depends_on = []
+
 [contracts.quest-system]
 path = "contracts/quest-system.clar"
 depends_on = []
